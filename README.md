@@ -1,3 +1,3 @@
 CodeIgniter Project
 
-Beginner CodeIgniter Example CURD Application
+PHP Codeigniter Framework for beginner CodeIgniter Coders that creates a full functional CURD Application.
